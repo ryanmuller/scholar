@@ -7,7 +7,7 @@ A command line tool suite for reading text and writing about what you read.
 ```
 ruby scholar.rb path/to/files
 ```
-(See http://github.com/ryanmuller/wwwtxt for acquiring text files. More to come.)
+(See http://github.com/ryanmuller/www.txt for acquiring text files. More to come.)
 
 * This opens the library view. Three random articles are listed. Choose one by pressing `1`, `2`, or `3`, then enter. (TODO: better article navigation)
 * Press `n`/`p` to navigate the article. Your place in the article is remembered. (TODO: Persist between session, better article display.)
